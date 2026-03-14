@@ -1,0 +1,9 @@
+Origin: UP1207UP
+Label: UP1207UP
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e iphoneos-arm64 iphoneos-arm
+Components: main
+Description: iOS 13.6 专用 Cydia 源
+Support: Up1207

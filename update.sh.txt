@@ -1,0 +1,4 @@
+#!/bin/bash
+dpkg-scanpackages debs /dev/null > Packages
+gzip -f Packages
+echo "✅ UP1207UP 源更新完成！"

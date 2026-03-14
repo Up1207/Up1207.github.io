@@ -1,0 +1,16 @@
+Package: com.up1207up.tool
+Version: 1.0
+Architecture: iphoneos-arm
+Section: Utilities
+Depends: firmware (>= 13.0)
+Maintainer: UP1207UP <admin@up1207.com>
+Author: UP1207UP
+Description: UP1207UP 工具插件
+  iOS 13.6 专用插件
+  稳定流畅使用
+
+Filename: debs/up1207up_test.deb
+Size: 102400
+MD5sum: 00000000000000000000000000000000
+SHA1: 0000000000000000000000000000000000000000
+SHA256: 0000000000000000000000000000000000000000000000000000000000000000
